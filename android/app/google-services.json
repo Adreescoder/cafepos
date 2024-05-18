@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525541211178",
+    "project_id": "skillzuppsofts",
+    "storage_bucket": "skillzuppsofts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525541211178:android:0ea7cd39c34d76180dd753",
+        "android_client_info": {
+          "package_name": "com.example.cafepos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6i6P85aGJm3zPIuXdRuu4_Mue6Z9e6kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
