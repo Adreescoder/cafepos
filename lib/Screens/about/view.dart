@@ -1,4 +1,4 @@
-import 'package:cafepos/constants.dart';
+import 'package:cafepos/utilities/constants.dart';
 import 'package:card_actions/card_action_button.dart';
 import 'package:card_actions/card_actions.dart';
 import 'package:flutter/cupertino.dart';

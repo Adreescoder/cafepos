@@ -1,9 +1,10 @@
-import 'package:cafepos/my_products/view.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'about/view.dart';
+
+import '../Screens/about/view.dart';
+import '../Screens/my_products/view.dart';
 
 String whatsappURL =
     "https://wa.me/923058431046/?text=I%20want%20to%20buy%20Cafe%20POS%20from%20your%20website,%20please%20give%20me%20more%20info";
