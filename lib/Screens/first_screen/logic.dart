@@ -1,15 +1,9 @@
+import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
 class First_screenLogic extends GetxController {
-  @override
-  void onReady() {
-    // TODO: implement onReady
-    super.onReady();
-  }
+   late String title;
+  late List<Widget> items;
+  late  double width;
 
-  @override
-  void onClose() {
-    // TODO: implement onClose
-    super.onClose();
-  }
 }

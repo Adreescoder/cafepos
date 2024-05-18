@@ -43,6 +43,7 @@ dependencies:
   google_fonts: ^6.2.1
   carousel_slider: ^4.2.1
   cloud_firestore: ^4.17.3
+  hover_menu: ^1.1.1
 
 
 dev_dependencies:
@@ -74,6 +75,7 @@ flutter:
    - assets/Doorman_image/
    - assets/CompleteMobile_Pos/
    - assets/Telloo/
+   - assets/logo/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
